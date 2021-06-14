@@ -5,3 +5,7 @@ Now , when it comes to the implementation .
 First Exploratory Data Analysis is done which is followed by data cleaning. In this particular data set there are huge number of missing value which needs to be taggled smartly other wise our model would not be accurate enough. Hence I have calculated the percentage of missing values for each column and replaced that row with either the mean , mode or directly had dropped the column. This part is very cruicial .
 Now when data is cleaned we split the data in training and test set.
 Now implementing various ML algorithm and the one which is most accuracte is selected for the prediction.
+
+You can find the training and testing data here. 
+
+PS: Try to see the ipynb file only when you face some trouble while implementing or if want to see my code .
