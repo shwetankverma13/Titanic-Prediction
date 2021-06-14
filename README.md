@@ -8,4 +8,4 @@ Now implementing various ML algorithm and the one which is most accuracte is sel
 
 You can find the training and testing data here. 
 
-PS: Try to see the ipynb file only when you face some trouble while implementing or if want to see my code .
+PS: Try to see the ipynb file only when you face some trouble while implementing or if you want to see my code .
